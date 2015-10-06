@@ -20,5 +20,5 @@ CSS
 HTML
 ====================================
 <div class="embed-wrap">
-<iframe src="http://bauhaus.bvod.tv/play/1edd8b39-600e-4fc4-9f4f-4bd7cac42f58" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/pM21uQR6G_Q" frameborder="0" allowfullscreen></iframe>
 </div>
